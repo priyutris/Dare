@@ -1,16 +1,14 @@
 <style>
-
 {
 	box-sizing: border-box;
 }
-
 .top
 {
 	top:5%;
 	position: absolute;
 	overflow: hidden;
 	right:2%;
-    margin-top: 1%;
+        margin-top: 1%;
 }
 .top a 
 {
@@ -33,14 +31,13 @@
 	transform: translate(-50%,-50%);
 	font-size: 30px;
 	margin-top: 1%;
-    font-weight: bold;
+        font-weight: bold;
 	padding-left:50px;
 	padding-right:50px;
 	text-decoration: none;
 	color:black;
-    font-family: le jour serif;
+        font-family: le jour serif;
 }
-
 .new
 {
 	margin-top: 3cm;
@@ -58,13 +55,10 @@
 	top:5%;
 	left:2%;
 }
-	
 @media (max-width:1920px){
 }
-
 @media (max-height:1080px){
 }
-
 @media (min-width:992px){
 }
 </style>
