@@ -19,7 +19,7 @@
 	position: absolute;
 	overflow: hidden;
 	right:2%;
-    margin-top: 1%;
+        margin-top: 1%;
 }
 .top a
 {
@@ -41,8 +41,8 @@
 	right:50%;
 	transform: translate(-50%,-50%);
 	font-size: 30px;
-    margin-top: 0%;
-    font-weight: bold;
+        margin-top: 0%;
+        font-weight: bold;
 	text-decoration: none;
 	color:black;
 	font-family: le jour serif;	
@@ -70,17 +70,14 @@ body{
   margin-left:3%;
 }
 .container{
- max-width: 700px;
+  max-width: 700px;
   width: 100%;
-
   background-color: #fff;
   padding: 25px 30px;
   border-radius: 5px;
-
 }
 .container .title{
   font-size: 25px;
-
   font-weight: 500;
   position: relative;
 }
@@ -174,7 +171,7 @@ form .button input{
     width: 10%;
     border-radius: 5px;
     border: 1px solid #ccc;
-	font-family: glacial indifference;
+    font-family: glacial indifference;
     font-size: 18px;
     font-weight: 500;
     letter-spacing: 1px;
@@ -206,10 +203,8 @@ form .user-details .input-box{
   }
 @media (max-width:1920px){
 }
-
 @media (max-height:1080px){
 }
-
 @media (min-width:992px){
 }
 </style>
