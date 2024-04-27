@@ -8,19 +8,19 @@
 	position: absolute;
 	overflow: hidden;
 	right:2%;
-    margin-top: 1%;
+        margin-top: 1%;
 }
 .top a 
 {
-	color:black;
-	font-size:21px;
-    font-family: raleway;
-    font-weight: bold;
-	text-decoration: none;
+      color:black;
+      font-size:21px;
+      font-family: raleway;
+      font-weight: bold;
+      text-decoration: none;
 }
 .prop
 {
-   text-align:center;
+        text-align:center;
 	display:block;
 	width:800px;
 	position: absolute;
@@ -36,7 +36,7 @@
 	padding-right:50px;
 	text-decoration: none;
 	color:black;
-    font-family: le jour serif;
+        font-family: le jour serif;
 }
 .new
 {
@@ -45,7 +45,6 @@
 	text-align: center;	
 	font-size: 21px;
 	font-family: raleway;
-	
 }
 .menuicon
 {
@@ -56,11 +55,10 @@
 	top:5%;
 	left:2%;
 }
-
 .span 
 {
-	 margin-left: 3cm;
-	 margin-top: 1cm;
+	margin-left: 3cm;
+	margin-top: 1cm;
 	font-family: josefin sans;
 }
 .para 
@@ -72,13 +70,10 @@
     margin-bottom: 5cm;
     text-decoration: none;
 }
-
 @media (max-width:1920px){
 }
-
 @media (max-height:1080px){
 }
-
 @media (min-width:992px){
 }
 </style>
