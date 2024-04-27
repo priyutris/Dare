@@ -1,9 +1,7 @@
 <style>
-
 {
 	box-sizing: border-box;
 }
-
 .menuicon
 {
 	width:50px;
@@ -21,8 +19,7 @@
 	font-size: 21px;
 	font-family: Raleway;
 }
-
- .prop
+.prop
 {
 	text-align:center;
 	display:block;
@@ -38,36 +35,29 @@
 	font-weight:bold;
 	padding-left:50px;
 	padding-right:50px;
-    text-decoration: none;
-    font-family: le jour serif;
-	color:black;
+        text-decoration: none;
+        font-family: le jour serif;
+        color:black;
 }
-
 .container
 {
     margin-top: 2cm;
-    
     display: inline-block;
-   
 }
 .container a 
 {
-	text-decoration: none;
-	color: black;
+    text-decoration: none;
+    color: black;
     margin-left: 1ch;
     text-align: justify;
     font-size: 21px;
     font-weight: bold;
-	font-family: josefin sans;
-	
-	
+    font-family: josefin sans;
 }
 @media (max-width:1920px){
 }
-
 @media (max-height:1080px){
 }
-
 @media (min-width:992px){
 }
 </style>
