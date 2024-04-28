@@ -101,7 +101,7 @@ body{
 }
 form .user-details .input-box{
   margin-bottom: 15px;
-  width: 60%
+  width: 60%;
 }
 form .input-box span.details{
   display: block;
@@ -164,7 +164,7 @@ form .gender-details .gender-title{
  }
  form .button{
    height: 45px;
-   margin: 35px 0
+   margin: 35px 0;
  }
 form .button input{
     height: 100%;
